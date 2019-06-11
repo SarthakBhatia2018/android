@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">FirebaseFirstProject</string>
+    <string name="add_task_button">Add Task</string>
+    <string name="email_id">email id</string>
+    <string name="password">password</string>
+    <string name="login">Login</string>
+    <string name="failed">Authentication failed</string>
+    <string name="image">image</string>
+    <string name="create_a_new_account">Create a new Account!</string>
+    <string name="Signout">Signout</string>
+    <string name="Tocontinue">Continue</string>
+    <string name="enter_you_phone_number">Enter you Phone Number</string>
+</resources>
