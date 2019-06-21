@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">FirebaseFirstProject</string>
+    <string name="add_task_button">Add Task</string>
+    <string name="email_id">email id</string>
+    <string name="password">password</string>
+    <string name="failed">Authentication failed</string>
+    <string name="image">image</string>
+    <string name="create_a_new_account">Create a new Account!</string>
+    <string name="share">share</string>
+    <string name="options">options</string>
+    <string name="logout">logout</string>
+    <string name="enter_you_phone_number">Enter your phone number</string>
+    <string name="tocontinue">Continue</string>
+    <string name="login">Login</string>
+    <string name="enter_the_otp_code_sent_to_your_mobile">Enter the OTP Code sent to your Mobile</string>
+    <string name="enter_your_otp">Enter Your OTP</string>
+    <string name="text">TEXT:</string>
+</resources>
